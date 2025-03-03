@@ -2,7 +2,7 @@
 
 Free Mode 🏆 – Un mod relaxant, unde jucătorul poate aduna bănuți și își poate îmbunătăți highscore-ul.
 Adventure Mode 🎯 – O provocare cu niveluri progresive, obstacole și obiective de îndeplinit.
-Fie că vrei să te distrezi cu un gameplay casual sau să îți testezi abilitățile în modurile mai dificile, Pixel Soccer Adventure îți oferă o experiență dinamică și captivantă.
+Fie că vrei să te distrezi cu un gameplay casual sau să îți testezi abilitățile în modurile mai dificile, SkyBounce îți oferă o experiență dinamică și captivantă.
 
 🚀 Caracteristici principale
 ✔️ Gameplay 2D fluid cu mecanici intuitive de control al mingii
